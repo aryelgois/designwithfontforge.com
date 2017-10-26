@@ -51,6 +51,6 @@ responsible to each file.
 * :white_check_mark:: Translated
 
 [aryelgois]:  https://github.com/aryelgois
-[Furnivaley]: https://github.com/furnivaley
+[Furnivaley]: https://github.com/Furnivaley
 [KnotBR]:     https://github.com/KnotBR
 [vncthnrq]:   https://github.com/vcnthnrq
