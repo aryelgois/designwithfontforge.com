@@ -7,17 +7,17 @@ responsible to each file.
 # pt-BR Translation
 
 | Id | Page                                       | Page (pt-BR)                               | Translator   | Status
-|----|--------------------------------------------|--------------------------------------------|--------------|:------------------:
-|  0 | Index                                      | Índice                                     | [aryelgois]  | :white_check_mark:
-|  1 | Introduction                               | Introdução                                 | [aryelgois]  | :white_check_mark:
-|  2 | What Is a Font                             | O que é uma Fonte?                         | [aryelgois]  | :white_check_mark:
-|  3 | Trusting Your Eyes                         | Confiando em seus olhos                    | [Furnivaley] | :books:
-|  4 | Planning Your Project                      | Planejando o seu Projeto                   | [vncthnrq]   | :pencil:
-|  5 | The EM Square                              | A medida Eme - <em>Quadratim</em>          | [KnotBR]     | :white_check_mark:
-|  6 | Installing Fontforge                       | Instalando o FontForge                     | [vncthnrq]   | :pushpin:
-|  7 | Configuring Fontforge                      | Configurando o Fontforge                   | [Furnivaley] | :pushpin:
-|  8 | General UI introduction                    | Introdução Geral à Interface de Usuário    | [KnotBR]     | :pushpin:
-|  9 | Using the Fontforge Drawing Tools          | Usando as Ferramentas de Desenho do FF     | [aryelgois]  | :pushpin:
+|----|--------------------------------------------|--------------------------------------------|--------------|:--------------------:
+|  0 | Index                                      | Índice                                     | [aryelgois]  | [:white_check_mark:]
+|  1 | Introduction                               | Introdução                                 | [aryelgois]  | [:white_check_mark:]
+|  2 | What Is a Font                             | O que é uma Fonte?                         | [aryelgois]  | [:white_check_mark:]
+|  3 | Trusting Your Eyes                         | Confiando em seus olhos                    | [Furnivaley] | [:books:]
+|  4 | Planning Your Project                      | Planejando o seu Projeto                   | [vncthnrq]   | [:pencil:]
+|  5 | The EM Square                              | A medida Eme - <em>Quadratim</em>          | [KnotBR]     | [:white_check_mark:]
+|  6 | Installing Fontforge                       | Instalando o FontForge                     | [vncthnrq]   | [:pushpin:]
+|  7 | Configuring Fontforge                      | Configurando o Fontforge                   | [Furnivaley] | [:pushpin:]
+|  8 | General UI introduction                    | Introdução Geral à Interface de Usuário    | [KnotBR]     | [:pushpin:]
+|  9 | Using the Fontforge Drawing Tools          | Usando as Ferramentas de Desenho do FF     | [aryelgois]  | [:pushpin:]
 | 10 | Drawing With Spiro                         | Desenhando com Spiro                       |
 | 11 | Creating “o” and “n”                       | Criando ‘o’ e ‘n’                          |
 | 12 | Font Info & Metadata                       | Informações da Fonte & Metadata            |
@@ -43,12 +43,11 @@ responsible to each file.
 | 32 | Glossary                                   | Glossário                                  |
 
 
-# Status code
+[:pushpin:]:          # "Assigned"
+[:pencil:]:           # "Translating"
+[:books:]:            # "Review"
+[:white_check_mark:]: # "Translated"
 
-* :pushpin:: Assigned
-* :pencil:: Translating
-* :books:: Review
-* :white_check_mark:: Translated
 
 [aryelgois]:  https://github.com/aryelgois
 [Furnivaley]: https://github.com/Furnivaley
