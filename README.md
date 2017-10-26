@@ -16,7 +16,7 @@ responsible to each file.
 |  5 | The EM Square                              | A medida Eme - <em>Quadratim</em>          | [KnotBR]     | :white_check_mark:
 |  6 | Installing Fontforge                       | Instalando o FontForge                     | [vncthnrq]   | :pushpin:
 |  7 | Configuring Fontforge                      | Configurando o Fontforge                   | [Furnivaley] | :pushpin:
-|  8 | General UI introduction                    | Introdução Geral à Interface de Usuário    |
+|  8 | General UI introduction                    | Introdução Geral à Interface de Usuário    | [KnotBR]     | :pushpin:
 |  9 | Using the Fontforge Drawing Tools          | Usando as Ferramentas de Desenho do FF     |
 | 10 | Drawing With Spiro                         | Desenhando com Spiro                       |
 | 11 | Creating “o” and “n”                       | Criando ‘o’ e ‘n’                          |
