@@ -14,7 +14,7 @@ responsible to each file.
 |  3 | Trusting Your Eyes                         | Confiando em seus olhos                    | [Furnivaley] | :books:
 |  4 | Planning Your Project                      | Planejando o seu Projeto                   | [vncthnrq]   | :pencil:
 |  5 | The EM Square                              | A medida Eme - <em>Quadratim</em>          | [KnotBR]     | :white_check_mark:
-|  6 | Installing Fontforge                       | Instalando o FontForge                     |
+|  6 | Installing Fontforge                       | Instalando o FontForge                     | [vncthnrq]   | :pushpin:
 |  7 | Configuring Fontforge                      | Configurando o Fontforge                   |
 |  8 | General UI introduction                    | Introdução Geral à Interface de Usuário    |
 |  9 | Using the Fontforge Drawing Tools          | Usando as Ferramentas de Desenho do FF     |
