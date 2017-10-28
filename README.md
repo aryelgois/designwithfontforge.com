@@ -18,7 +18,7 @@ responsible to each file.
 |  7 | [Configuring Fontforge]                      | [Configurando o Fontforge]                    | [Furnivaley] | [:pushpin:]
 |  8 | [General UI introduction]                    | [Introdução Geral à Interface de Usuário]     | [KnotBR]     | [:books:]
 |  9 | [Using the Fontforge Drawing Tools]          | [Usando as Ferramentas de Desenho do FF]      | [aryelgois]  | [:pushpin:]
-| 10 | [Drawing With Spiro]                         | [Desenhando com Spiro]                        | [KnotBR]     | [:pushpin:]
+| 10 | [Drawing With Spiro]                         | [Desenhando com Spiro]                        | [KnotBR]     | [:books:]
 | 11 | [Creating “o” and “n”]                       | [Criando ‘o’ e ‘n’]                           |
 | 12 | [Font Info & Metadata]                       | [Informações da Fonte & Metadata]             |
 | 13 | [Word Space]                                 | [Espaçando palavras]                          |
