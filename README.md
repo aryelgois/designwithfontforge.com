@@ -7,7 +7,7 @@ responsible to each file.
 # pt-BR Translation
 
 | Id | Page                                         | Page (pt-BR)                                  | Translator   | Status
-|----|----------------------------------------------|-----------------------------------------------|--------------|:--------------------:
+|---:|----------------------------------------------|-----------------------------------------------|--------------|:--------------------:
 |  0 | [Index]                                      | [Índice]                                      | [aryelgois]  | [:white_check_mark:]
 |  1 | [Introduction]                               | [Introdução]                                  | [aryelgois]  | [:white_check_mark:]
 |  2 | [What Is a Font]                             | [O que é uma Fonte?]                          | [aryelgois]  | [:white_check_mark:]
