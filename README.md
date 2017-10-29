@@ -11,7 +11,7 @@ responsible to each file.
 |  0 | [Index]                                      | [Índice]                                      | [aryelgois]  | [:white_check_mark:]
 |  1 | [Introduction]                               | [Introdução]                                  | [aryelgois]  | [:white_check_mark:]
 |  2 | [What Is a Font]                             | [O que é uma Fonte?]                          | [aryelgois]  | [:white_check_mark:]
-|  3 | [Trusting Your Eyes]                         | [Confiando em seus olhos]                     | [Furnivaley] | [:books:]
+|  3 | [Trusting Your Eyes]                         | [Confiando em seus olhos]                     | [Furnivaley] | [:white_check_mark:]
 |  4 | [Planning Your Project]                      | [Planejando o seu Projeto]                    | [vncthnrq]   | [:pencil:]
 |  5 | [The EM Square]                              | [A medida Eme - <em>Quadratim</em>]           | [KnotBR]     | [:white_check_mark:]
 |  6 | [Installing Fontforge]                       | [Instalando o FontForge]                      | [vncthnrq]   | [:pushpin:]
