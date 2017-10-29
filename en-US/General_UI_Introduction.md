@@ -38,7 +38,7 @@ You can also step through a prepared word list text file here.
 Go to Elements, Font Info. 
 Here you'll find all the _metadata_ about the font. 
 
-#### 5. The Typesetting Environment, for Testing
+## The Typesetting Environment, for Testing
 
 Outside any font editor, you'll need a typesetting system to test your fonts in use. 
 This is one of the **big secrets** of professional type designers: 
