@@ -128,7 +128,7 @@ design choices. As your design becomes more complete, your tests will need to ke
 evaluate the relative success or failure of the newest choices you have made &mdash; or, even
 better, to compare two (or three, or more&hellip;) options you are considering.
 
-Sometimes you will find you have to double back and change a design choice you thought was already
+Sometimes you will find you have to look back and change a design choice you thought was already
 working well. This is normal. Making a font requires balancing many variables, and surprises often
 occur. The more you design fonts, the more experience you will have in making these arbitrary
 choices.
