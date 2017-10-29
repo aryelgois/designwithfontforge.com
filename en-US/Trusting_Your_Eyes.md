@@ -108,7 +108,7 @@ height.
 This illusion is relevant for any glyph that has parts which are either round or pointy. These
 include O, Q, C, S, A, V, W, and so on.
 
-## You are fully qualified to correct for these illusions
+## You are fully qualified to correct these illusions
 
 Because you can see both the illusion and the effect of correcting for the illusion, you will be
 able to make these corrections for yourself. You just have to trust your impressions.
