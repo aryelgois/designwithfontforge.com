@@ -40,7 +40,7 @@ responsible to each file.
 | 29 | [Adding Glyphs to an Arabic Font]            | [Adicionando Glifos para uma fonte Árabe]     |
 | 30 | [Further Reading]                            | [Leitura recomendada]                         |
 | 31 | [Font Editor Tool History]                   | [História das Ferramentas de edição de Fonte] |
-| 32 | [Glossary]                                   | [Glossário]                                   |
+| 32 | [Glossary]                                   | [Glossário]                                   | [marcelommp] | [:pushpin:]
 
 [Index]:                                       ../gh-pages/en-US-weightlist.md
 [Introduction]:                                ../gh-pages/en-US/Introduction.md
@@ -118,4 +118,5 @@ responsible to each file.
 [aryelgois]:  https://github.com/aryelgois
 [Furnivaley]: https://github.com/Furnivaley
 [KnotBR]:     https://github.com/KnotBR
+[marcelommp]: https://github.com/marcelommp
 [vncthnrq]:   https://github.com/vcnthnrq
