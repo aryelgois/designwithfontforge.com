@@ -49,7 +49,7 @@ forms of curves within any other characters of the font, such as the O, C, D, an
 In addition, the white inside the ‘o’ should be utilized when designing the spacing of our font; the
 ‘o’ sets up the reference rhythm of spaces used between all other glyphs in the font too. These two
 values are very related, so essentially you will need to design the amount of white space that are
-the side bearings of your ‘o’ as well.  As a general principle, with the exception of slanted or
+the side bearings of your ‘o’ as well. As a general principle, with the exception of slanted or
 italic fonts, the ‘o’ should have the same amount of space on the left and right sides, and the
 white space between a string of ‘o’ characters should balance the white space inside the ‘o’s.
 
@@ -58,11 +58,11 @@ may want to have a look at the [“Spacing, Metrics, and Kerning”] chapter, wh
 implications of spacing in a font.  
 That should get you to a well-spaced ‘o’ character, which will help you with the design of the ‘n’.
 
-## Design the lowercase ‘n’
+## Designing the lowercase ‘n’
 
 Once you are happy with the form and spacing of your lowercase ‘o’ character as shown with a sample
 string, the next step of this approach is to create a suitably shaped, balanced, and well-spaced
-lowercase ‘n,’ which you will inject into your string of ‘o’s.
+lowercase ‘n’, which you will inject into your string of ‘o’s.
 
 If we look at the anatomy of an ‘n’, we can break it apart into two or three components consisting of a <i>stem</i> and a <i>curve</i>.  
 This approach can give us a shortcut to keeping balance and harmony within our characters as they
