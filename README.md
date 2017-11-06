@@ -19,7 +19,7 @@ responsible to each file.
 |  8 | [General UI introduction]                    | [Introdução Geral à Interface de Usuário]     | [KnotBR]     | [:white_check_mark:]
 |  9 | [Using the Fontforge Drawing Tools]          | [Usando as Ferramentas de Desenho do FF]      | [aryelgois]  | [:pushpin:]
 | 10 | [Drawing With Spiro]                         | [Desenhando com Spiro]                        | [KnotBR]     | [:books:]
-| 11 | [Creating “o” and “n”]                       | [Criando ‘o’ e ‘n’]                           | [KnotBR]     | [:books:]
+| 11 | [Creating “o” and “n”]                       | [Criando ‘o’ e ‘n’]                           | [KnotBR]     | [:white_check_mark:]
 | 12 | [Font Info & Metadata]                       | [Informações da Fonte & Metadata]             |
 | 13 | [Word Space]                                 | [Espaçando palavras]                          |
 | 14 | [Creating Your Type DNA]                     | [Criando o DNA do seu Tipo]                   |
