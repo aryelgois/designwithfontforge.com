@@ -6,7 +6,7 @@ category: workflow
 title: Line Spacing
 ---
 
-When you have the word space and the n and o set you can begin to look at the line spacing. However, a full and final decision about line spacing isn't possible until you have Capital letters and some punctuation.
+When you have the word space and the 'n' and 'o' set, you can begin to look at the line spacing. However, a full and final decision about line spacing isn't possible until you have capital letters and some punctuation.
 
 ## Think about line space intentionally
 
@@ -14,7 +14,7 @@ As is the case with letter and word spacing, having too much or too little line 
 
 As a general rule, most new font designers tend to err on the side of having too little line spacing in their font, so if you are unsure, adding additional space is usually a good idea.
 
-You should also consider the scope of your project's language coverage when considering line spacing. If you test your font's line spacing only with unaccented characters, you are likely to settle on a line spacing value that leaves no room for accents.  If you are certain your font will never be used with accented characters, this might be acceptable — but the odds are that your font <em>will</em> be used to set accented text.  In that case, too little line spacing will cause the accents on one line to run into the bottoms of the glyphs above, and leave the reader with difficult (if not impossible) to read text.
+You should also consider the scope of your project's language coverage when considering line spacing. If you test your font's line spacing only with unaccented characters, you are likely to settle on a line spacing value that leaves no room for accents.  If you are certain your font will never be used with accented characters, this might be acceptable &mdash; but the odds are that your font <em>will</em> be used to set accented text.  In that case, too little line spacing will cause the accents on one line to run into the bottoms of the glyphs above, and leave the reader with difficult (if not impossible) to read text.
 
 One strategy to test whether your font's line spacing is proper for accented characters is to employ sample text from several languages.
 
@@ -38,4 +38,4 @@ There are three sets of values: Win Ascent and Descent, Typo Ascent and Descent,
 
 These settings will give you a sensible starting point.  You can now proceed to test your font with this line spacing and make incremental adjustments until you arrive at eye-pleasing result.
 
-If you find your linespacing is too tight and you don't want to or can't make the verical metrics larger you can scale the glyphs down to gain more space for linespacing.
+If you find your linespacing is too tight and you don't want to or can't make the vertical metrics larger, you can scale the glyphs down to gain more space for linespacing.

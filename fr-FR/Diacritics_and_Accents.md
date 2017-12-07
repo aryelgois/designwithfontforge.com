@@ -56,7 +56,7 @@ FontForge peut automatiquement créer des caractères accentués de 2 façons;
 
 ## Positionnement automatique de base des signes diacritiques dans FontForge.
 
-Dans le menu 'Elément' de FontForge, il y a une fonction appelée 'Assembler' qui peut être utilisée pour créer des caractères accentués, certains caractères composites et certains caractères en double. Pour construire automatiquement des caractères accentués FontForge utilise la fonction 'Elément> Assembler> Créer les glyphes accentués'. Cette fonction peut également être effectuée avec la touche 'Ctrl + Maj + a'. Ainsi, à l'aide de l'exemple de construction du caractère 'a accent aigu' (u+00e1), il faudrait avoir déjà créé le 'a' minuscule (u+0061) et le glyphe 'accent aigu combiné' (u+301). Ensuite, en sélectionnant l'emplacement de caractères 'a accent aigu' et en utilisant la fonction 'Elément> Assembler> Créer les glyphes accentués', FontForge placera une référence au glyphe 'a' minuscule et une référence au glyphe 'accent aigu' dans l'emplacement de caractères 'a accent aigu' (voir ci-dessous).
+Dans le menu 'Elément' de FontForge, il y a une fonction appelée 'Assembler' qui peut être utilisée pour créer des caractères accentués, certains caractères composites et certains caractères en double. Pour construire automatiquement des caractères accentués FontForge utilise la fonction 'Elément> Assembler> Créer les glyphes accentués'. Cette fonction peut également être effectuée avec la touche <kbd>Ctrl</kbd> + <kbd>Maj</kbd> + <kbd>a</kbd>. Ainsi, à l'aide de l'exemple de construction du caractère 'a accent aigu' (u+00e1), il faudrait avoir déjà créé le 'a' minuscule (u+0061) et le glyphe 'accent aigu combiné' (u+301). Ensuite, en sélectionnant l'emplacement de caractères 'a accent aigu' et en utilisant la fonction 'Elément> Assembler> Créer les glyphes accentués', FontForge placera une référence au glyphe 'a' minuscule et une référence au glyphe 'accent aigu' dans l'emplacement de caractères 'a accent aigu' (voir ci-dessous).
 
 <img src="../en-US/images/dia_auto_a_acute-fr-FR.png"/>
 
@@ -64,7 +64,7 @@ Ce positionnement automatique des signes diacritiques peut être réglé selon l
 
 <img src="../en-US/images/preferences_accents-fr-FR.png" />
 
-'Préférer les accents chassants' — l'activation de cette option obligera FontForge à créer des glyphes accentués avec des caractères chassant, même si les caractères combinants appropriés sont présents. Cette option est ignorée lors de l'utilisation d'ancres pour positionner les signes diacritiques.
+'Préférer les accents chassants' &mdash; l'activation de cette option obligera FontForge à créer des glyphes accentués avec des caractères chassant, même si les caractères combinants appropriés sont présents. Cette option est ignorée lors de l'utilisation d'ancres pour positionner les signes diacritiques.
 
 'Pourcentage de décalage des accents' contrôle la quantité d'espace vertical entre le glyphe de base et celui du diacritique. La valeur saisie ici est un pourcentage du cadratin de la police. Donc, une valeur de '6' va décaler le glyphe du signe à partir du glyphe de base de 6% du cadratin de la police.
 
