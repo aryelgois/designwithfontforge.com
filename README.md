@@ -21,7 +21,7 @@ responsible to each file.
 | 10 | [Drawing With Spiro]                         | [Desenhando com Spiro]                        | [KnotBR]     | [:books:]
 | 11 | [Creating “o” and “n”]                       | [Criando ‘o’ e ‘n’]                           | [KnotBR]     | [:white_check_mark:]
 | 12 | [Font Info & Metadata]                       | [Informações da Fonte & Metadata]             | [KnotBR]     | [:pushpin:]
-| 13 | [Word Space]                                 | [Espaçando palavras]                          |
+| 13 | [Word Space]                                 | [Espaçando palavras]                          | [aryelgois]  | [:pushpin:]
 | 14 | [Creating Your Type DNA]                     | [Criando o DNA do seu Tipo]                   |
 | 15 | [Capital Letters]                            | [Letras Maiúsculas]                           |
 | 16 | [Line Spacing]                               | [Espaçando linhas]                            |
