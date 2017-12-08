@@ -22,7 +22,7 @@ responsible to each file.
 | 11 | [Creating “o” and “n”]                       | [Criando ‘o’ e ‘n’]                           | [KnotBR]     | [:white_check_mark:]
 | 12 | [Font Info & Metadata]                       | [Informações da Fonte & Metadata]             | [KnotBR]     | [:pushpin:]
 | 13 | [Word Space]                                 | [Espaçamento de palavras]                     | [aryelgois]  | [:white_check_mark:]
-| 14 | [Creating Your Type DNA]                     | [Criando o DNA do seu Tipo]                   |
+| 14 | [Creating Your Type DNA]                     | [Criando o DNA do seu Tipo]                   | [aryelgois]  | [:pushpin:]
 | 15 | [Capital Letters]                            | [Letras Maiúsculas]                           |
 | 16 | [Line Spacing]                               | [Espaçando linhas]                            |
 | 17 | [Punctuation and Symbols]                    | [Pontuação e Símbolos]                        |
