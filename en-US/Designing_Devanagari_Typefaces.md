@@ -9,7 +9,7 @@ title: Designing Devanagari Typefaces
 
 _Thanks to Adam Twardoch, Erin McLaughlin, Neelakash Kshetrimayum, Dan Reynolds, Pooja Saxena, Dr Girish Dalvi for contributing many of the ideas on this page._
 
-Designing a new and original [Devanagari](http://en.wikipedia.org/wiki/Devanagari) typeface follows a process much like the process for a new and original Latin. The unique benefit of _libre_ in libre fonts is that you can modify and reuse them for new purposes that their initial creators never thought of &mdash; for example, designing a Devanagari and adapting an existing Latin font to go with it. 
+Designing a new and original [Devanagari](http://en.wikipedia.org/wiki/Devanagari) typeface follows a process much like the process for a new and original Latin. The unique benefit of _libre_ in libre fonts is that you can modify and reuse them for new purposes that their initial creators never thought of &mdash; for example, designing a Devanagari and adapting an existing Latin font to go with it.
 
 ## Devanagari Glyphs
 
@@ -35,9 +35,9 @@ It is helpful to do some calligraphy or closely study writing manuals to learn h
 
 ## What to Do First
 
-When designing a Devanagari and Latin typeface, it's important to start by draw the Latin alongside the Devanagari. In the earliest stages are designing the "key" glyphs, to establish the personality of the typeface through fundamental shapes and spacing (which in Latin may be 'adhesion' or 'videospan'.) Design the lowest and highest "height extremes" glyphs early in the process. 
+When designing a Devanagari and Latin typeface, it's important to start by draw the Latin alongside the Devanagari. In the earliest stages are designing the "key" glyphs, to establish the personality of the typeface through fundamental shapes and spacing (which in Latin may be 'adhesion' or 'videospan'.) Design the lowest and highest "height extremes" glyphs early in the process.
 
-You'll need plenty of vowel signs to begin testing texture and scale. 
+You'll need plenty of vowel signs to begin testing texture and scale.
 
 The professor of typography at IIT Bombay, Dr. Girish Dalvi, wrote in his PhD thesis,
 
@@ -45,7 +45,7 @@ The professor of typography at IIT Bombay, Dr. Girish Dalvi, wrote in his PhD th
 
 Erin McLaughlin suggested these glyphs as an initial progression:  **पाव + किमीनुफू + भरसगदह + र्मों ड्डू (height extremes) + यथधआछड … continue character set** and suggested to focus on the "Au" vowel sign + reph + anusvara combo!, the Ma is just there for posterity.
 
-The height extremes glyphs allow you to determine the vertical metrics, and how to scale the two writing systems to work together. Adobe publishes very large type families that cover very different orthographies. These are split into families with shared general proportions: Myriad Pro has Latin, Greek and Cyrillic, but the Hebrew and Arabic designs are packaged as separate families which include **modified** Latin designs. 
+The height extremes glyphs allow you to determine the vertical metrics, and how to scale the two writing systems to work together. Adobe publishes very large type families that cover very different orthographies. These are split into families with shared general proportions: Myriad Pro has Latin, Greek and Cyrillic, but the Hebrew and Arabic designs are packaged as separate families which include **modified** Latin designs.
 
 Here is Myriad Pro Latin and Myriad Arabic juxtaposed:
 
@@ -66,16 +66,16 @@ Designing Latin fonts typically involves a series of spacing strings like this,
 > HHxHOHOxOO  
 > nnXnonoXoo
 
-where the X represents the letter you are focused on spacing, and the concept is looking at this letter next to a somewhat flat-sided character and a round character. 
+where the X represents the letter you are focused on spacing, and the concept is looking at this letter next to a somewhat flat-sided character and a round character.
 
 Pa, and Va or Da are Devanagari equivalents:
 
 > पपXपवपवXवव  
 > पपXपदपदXदद
 
-When just beginning a project, start with filling a page entirely with Pa in order to get the right balance of stroke thickness, counter size, and spacing. 
+When just beginning a project, start with filling a page entirely with Pa in order to get the right balance of stroke thickness, counter size, and spacing.
 
-> पपपपपपपपपपपपपपपपपपपपप 
+> पपपपपपपपपपपपपपपपपपपपप
 
 Once the Pa has the right "color", you can begin adding these other basic, common characters:
 
@@ -103,13 +103,13 @@ And the four glyphs in the middle, Pa/Da/Pa/Da allow you to compare the tested c
 
 <img src="images/deva-spacing.png" />
 
-After drawing and spacing a handful of vowels and consonants, you'll be able to make a limited number of words with only those letters, and begin testing your design with real text. 
+After drawing and spacing a handful of vowels and consonants, you'll be able to make a limited number of words with only those letters, and begin testing your design with real text.
 
 ## Work Breakdown Structure
 
-In any typeface design project, its a great idea to sketch out a Work Breakdown Structure. 
+In any typeface design project, its a great idea to sketch out a Work Breakdown Structure.
 
-For someone very experienced, it is possible to design the initial light and bold weights of a Devanagari typeface in around 4–6 months. 
+For someone very experienced, it is possible to design the initial light and bold weights of a Devanagari typeface in around 4–6 months.
 
 Here is a sample schedule for an interpolated family of 9 weights, upright and slanted, of a somewhat simple 'sans' design, by a very experienced designer:
 
@@ -134,7 +134,7 @@ Here is a sample schedule for an interpolated family of 9 weights, upright and s
 |17|General refinement of spacing, kerning & testing in all styles|3,600|
 |18|Finalisation|3,600|
 
-You may want to work with a font that has no sources available, only binary OpenType GPOS/GSUB tables. 
+You may want to work with a font that has no sources available, only binary OpenType GPOS/GSUB tables.
 There are a few tools that can convert those into the Adobe FEA syntax, including FontForge, but the output of each tool will require reworking by hand.
 
 The Adobe FDK contains a 'spot' tool, that can be used like this:
@@ -145,7 +145,7 @@ spot -t GSUB=7 Font.otf > GSUB.fea
 
 The Noto project has a [dump_otl.py](https://github.com/googlei18n/nototools/blob/master/nototools/dump_otl.py)
 
-The 'Fontlab Studio' and 'OpenType Master' proprietary application have converters too. 
+The 'Fontlab Studio' and 'OpenType Master' proprietary application have converters too.
 
 ## Useful Resources
 
@@ -155,7 +155,7 @@ The 'Fontlab Studio' and 'OpenType Master' proprietary application have converte
 
 ### Where to look for inspiration and ideas
 
-Look at the Devanagari fonts by the [Indian Type Foundry](https://www.indiantypefoundry.com/), and those that were just released through Google Fonts, for inspiration on the variation of letter shapes. 
+Look at the Devanagari fonts by the [Indian Type Foundry](https://www.indiantypefoundry.com/), and those that were just released through Google Fonts, for inspiration on the variation of letter shapes.
 
 Another good place to search for Hindi “e-paper” newspaper sites to see actual fonts-in-use &mdash; advertisements usually have more diversity in fonts. [Jagran](http://epaper.jagran.com) is a very largely circulated Indian e-paper.
 
@@ -206,7 +206,7 @@ The [Devanagari Unicode page](http://www.unicode.org/charts/PDF/U0900.pdf) shows
 
 ### Testing Tools
 
-Adobe InDesign's support for OpenType Fonts for non-European scripts only became reliable with Creative Cloud, and [the World Ready Composer paragraph option must be enabled](http://blogs.adobe.com/vikrant/2012/05/indesign-cs6-indic-support-and-preferences/); even the latest version can be improved. The libre [harfbuzz](https://freedesktop.org/wiki/Software/HarfBuzz/) and Microsoft OpenType implementations are the most complete, so you should test your fonts in the latest versions of Chrome, Firefox and Microsoft Word, on both Windows and Mac OS X, to ensure errors in shaping are due to the fonts and not the underlying engine. 
+Adobe InDesign's support for OpenType Fonts for non-European scripts only became reliable with Creative Cloud, and [the World Ready Composer paragraph option must be enabled](http://blogs.adobe.com/vikrant/2012/05/indesign-cs6-indic-support-and-preferences/); even the latest version can be improved. The libre [harfbuzz](https://freedesktop.org/wiki/Software/HarfBuzz/) and Microsoft OpenType implementations are the most complete, so you should test your fonts in the latest versions of Chrome, Firefox and Microsoft Word, on both Windows and Mac OS X, to ensure errors in shaping are due to the fonts and not the underlying engine.
 
 [Pablo Impallari's Devanagari Testing Page](http://www.impallari.com/testing/index-devanagari.php) (with [sources on GitHub!](https://github.com/impallari/font-testing-page/)) provides some ready-made testing layouts, and you can drag and drop your OTF or TTF right into the page to load it.
 

@@ -60,7 +60,7 @@ See also X-height, Cap-height, Descender, Overshoot, Baseline.
 
 Used to specify mark-to-base and cursive GPOS subtables.
 
-### Ascent 
+### Ascent
 
 In traditional typography the ascent of a font was the distance from the top of a block of type to the baseline.
 
@@ -120,7 +120,7 @@ A (modern~1911) Chinese (Mandarin) alphabet used to provide phonetic translitera
 
 ### Boustrophedon
 
-Writing "as the ox plows"; that is, alternating between left-to-right and right-to-left writing directions. Early alphabets (Old Canaanite, the very early Greek writings, and, surprisingly, fu&thorn;ark) used this. Often, the right-to-left glyphs would be mirrors of the left-to-right ones. No modern writing system uses this method (nor does OpenType have any support for it). 
+Writing "as the ox plows"; that is, alternating between left-to-right and right-to-left writing directions. Early alphabets (Old Canaanite, the very early Greek writings, and, surprisingly, fu&thorn;ark) used this. Often, the right-to-left glyphs would be mirrors of the left-to-right ones. No modern writing system uses this method (nor does OpenType have any support for it).
 
 See also Bidi.
 
@@ -675,7 +675,7 @@ A typesetting package.
 
 ### Thorn
 
-The germanic letter "þ" used for the unvoiced (English) "th" sound (as in the word "thorn"). This may be approximately the same sound value as the Greek theta. Currently a corrupt version of this glyph survives as "ye" for "the". 
+The germanic letter "þ" used for the unvoiced (English) "th" sound (as in the word "thorn"). This may be approximately the same sound value as the Greek theta. Currently a corrupt version of this glyph survives as "ye" for "the".
 
 See also Eth.
 
@@ -753,8 +753,8 @@ CJK text is often written vertically (and sometimes horizontally), so each CJK g
 
 The weight of a font is how thick (dark) the stems of the glyphs are. Traditionally weight is named, but recently numbers have been applied to weights.
 
-|Name            |Number| 
-|:---------      |:---  | 
+|Name            |Number|
+|:---------      |:---  |
 |Thin            |100   |
 |Extra-Light     |200   |
 |Light           |300   |
@@ -764,8 +764,8 @@ The weight of a font is how thick (dark) the stems of the glyphs are. Traditiona
 |Bold            |700   |
 |Heavy           |800   |
 |Black           |900   |
-|Nord            |	    | 
-|Ultra           |	    | 
+|Nord            |      |
+|Ultra           |      |
 
 
 ### White space

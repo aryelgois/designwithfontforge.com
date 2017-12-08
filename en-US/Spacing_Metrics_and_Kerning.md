@@ -122,11 +122,11 @@ This is the most basic level of creating kerning pairs in FontForge. In the Metr
 
 Class kerning can save you a lot of time!
 
-A 'kern class' in FontForge can be created to build groups of characters who will all have the same kerning value applied. For example, a class can be created &mdash; let's call it 'o_left_bowl' &mdash; in which the characters 'o', 'c', 'd', 'e', 'q' will always have the same kerning value when preceeded by, for example, the character 'T'. 
-The 'T' could also itself be a member of another class that would likely include other characters such as Tcaron and Tbar. 
+A 'kern class' in FontForge can be created to build groups of characters who will all have the same kerning value applied. For example, a class can be created &mdash; let's call it 'o_left_bowl' &mdash; in which the characters 'o', 'c', 'd', 'e', 'q' will always have the same kerning value when preceeded by, for example, the character 'T'.
+The 'T' could also itself be a member of another class that would likely include other characters such as Tcaron and Tbar.
 
 Class Kerning is one kind of GPOS lookup.
-This kerning information is found by going to Element menu, Font Info, Lookups, GPOS tab. 
+This kerning information is found by going to Element menu, Font Info, Lookups, GPOS tab.
 (You can do this any time to get back to where you left off.)
 
 <img src="images/kernclass1.png" alt="">
@@ -135,13 +135,13 @@ Hit the "Add Lookup" button, and choose Type: "Pair Position (kerning)"
 
 <img src="images/kernclass2.png" alt="">
 
-Don’t click "New" button; click the down arrow next to it, and select "Horizontal Kerning". 
+Don’t click "New" button; click the down arrow next to it, and select "Horizontal Kerning".
 "New" will change to "Kern".
 Accept the default Lookup Name, or change it if you wish, and hit the OK button.
 
-You return to the GPOS tab, and you now have a lookup table that is selected. 
-Each set of kerning classes lives in its own subtable. 
-To create a subtable, hit the "Add Subtable" button. 
+You return to the GPOS tab, and you now have a lookup table that is selected.
+Each set of kerning classes lives in its own subtable.
+To create a subtable, hit the "Add Subtable" button.
 You can OK the default name.
 
 Then you are shown a window with a lot of choices:
@@ -150,36 +150,36 @@ Then you are shown a window with a lot of choices:
 
 At the top you are asked to choose either "Use individual kerning pairs" or "Use a matrix of kerning classes".
 
-If you chose classes you will be presented with a following dialog where you can create your classes. 
+If you chose classes you will be presented with a following dialog where you can create your classes.
 **If you want to kern references along with the originals, choose classes.**
 
-Note that you can choose to enable FontForge to 'guess' or 'autokern' the kerning values between the classes you are creating in the dialog. 
+Note that you can choose to enable FontForge to 'guess' or 'autokern' the kerning values between the classes you are creating in the dialog.
 If using FontForge to guess kerning values, you will undoubtedly need an amount of trial and error and experimentation, but it can make sense to use the autokern function as a quick way to kern your font and see what improvements this can bring.
 
 Leave the rest of the parameters as they are until you have reason to try different values.
 
 After clicking 'OK' in the above dialog, you will be presented with the following window where you can fine-tune the amount of kerning between these two classes.
-For example in the second screenshot below, two classes have been created, one class containing the 'T' character, and one class containing the 'o' character. 
+For example in the second screenshot below, two classes have been created, one class containing the 'T' character, and one class containing the 'o' character.
 
 <img src="images/kern_classes_1.png" />
 
 <img src="images/kernclass4.png" alt="">
 
-You can select all the glyphs and delete classes later, or you can select only the glyphs you want to kern. 
+You can select all the glyphs and delete classes later, or you can select only the glyphs you want to kern.
 You select all the glyphs you want to adjust at the same time, and Fontforge will put them in classes &mdash; unless you’re working with different writing systems that you don’t want to kern together (like Latin, Greek, Cyrillic…).
 
-When you hit the OK button, you get a big window with some parameters on top, two lists of classes, and a matrix below. 
-When you select a box in the matrix, you can see how the pair is kerned. 
+When you hit the OK button, you get a big window with some parameters on top, two lists of classes, and a matrix below.
+When you select a box in the matrix, you can see how the pair is kerned.
 If you don’t like it, you can adjust the Kern Offset, in the box above the display of the glyph pair.
 
-If anything screwy happens, and it will, hit the Cancel button. 
-Then double-click the subtable (hit the plus sign next to the table if you don’t see it) and you’re back in the big window. 
+If anything screwy happens, and it will, hit the Cancel button.
+Then double-click the subtable (hit the plus sign next to the table if you don’t see it) and you’re back in the big window.
 If you do a lot of work without trouble it’s a good idea to hit OK and come back, so you don’t lose your work when something screwy happens.
 
-The metrics window can be used later as a final check. 
-While making adjustments in that window can be done, it keeps asking if you want to kern the class or the pair and picky stuff like that. 
-Why not try it and see if you like it? 
-But know that some experienced users don’t like it, and do all kerning as above: 
+The metrics window can be used later as a final check.
+While making adjustments in that window can be done, it keeps asking if you want to kern the class or the pair and picky stuff like that.
+Why not try it and see if you like it?
+But know that some experienced users don’t like it, and do all kerning as above:
 Element, Font Info, Lookups, GPOS tab, expand by hitting the plus sign, double-click the subtable.
 
 ## Manual kerning

@@ -26,7 +26,7 @@ Numerals also come in up to 11 identifiable styles when you include fractions, s
 
 ## Lining style numerals
 
-The most common styles of number found in fonts are Tabular Lining and Proportional Lining. Lining refers to the heights that the numbers use. If it is a lining style the heights for all the numbers will be optically the same. The difference between Tabular Lining and Proportional Lining numbers is that in Tabular Lining all the numbers also share the same widths. This style is useful for spreadsheets and any other purpose where it is helpful for numbers to stay stacked up in neat lines both horizontally and vertically. 
+The most common styles of number found in fonts are Tabular Lining and Proportional Lining. Lining refers to the heights that the numbers use. If it is a lining style the heights for all the numbers will be optically the same. The difference between Tabular Lining and Proportional Lining numbers is that in Tabular Lining all the numbers also share the same widths. This style is useful for spreadsheets and any other purpose where it is helpful for numbers to stay stacked up in neat lines both horizontally and vertically.
 
 <img src="images/2Tabularlining2.png" alt="">
 
@@ -45,7 +45,7 @@ Tabular numbers are a relatively new invention in historical terms. Before they 
 
 <img src="images/2tabular%20oldstyle.png" alt="">
 
-Tabular oldstyle numbers are fairly rare. They can be useful in an annual report where you want the feeling of an old style number but the tabular spacing typical of that kind of document. The image above is from a typewriter library catalog card. 
+Tabular oldstyle numbers are fairly rare. They can be useful in an annual report where you want the feeling of an old style number but the tabular spacing typical of that kind of document. The image above is from a typewriter library catalog card.
 
 ## Hybrid style numerals
 

@@ -6,7 +6,7 @@ category: Appendices
 title: Importing Glyphs from Other Programs
 ---
 
-It is possible to draw glyphs in a general purpose illustration application (Inkscape, Adobe Illustrator, etc) and import them as EPS or SVG. 
+It is possible to draw glyphs in a general purpose illustration application (Inkscape, Adobe Illustrator, etc) and import them as EPS or SVG.
 
 ## Hand-coded SVG
 
@@ -38,7 +38,7 @@ In that template, draw guidelines at `y=100, y=1100, y=(100 + {baseline, capheig
 
 Then import the SVG glyph you are working on into that document with `<image xlink:href="LC_p.svg" x="100" y="100" width="1000" height="1000" />`.
 
-You can now hand-code your letter in one window, and refresh the browser in the other to see it drawn on top of the guidelines. 
+You can now hand-code your letter in one window, and refresh the browser in the other to see it drawn on top of the guidelines.
 
 
 ## Custom Glyph Lists

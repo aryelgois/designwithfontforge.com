@@ -16,7 +16,7 @@ The weight of strokes in the upper case often needs to be somewhat heavier than 
 
 The next set of letters to consider adding are A E S I N and either P or D and maybe V.
 
-Depending on the style of the font you are making you may find that the capital letters require more variation in width than you have in the lower case letters. The width of the E S and P may be substantially narrower than the H or may be similar. 
+Depending on the style of the font you are making you may find that the capital letters require more variation in width than you have in the lower case letters. The width of the E S and P may be substantially narrower than the H or may be similar.
 
 Generally the N and V are similar to H but slightly wider.
 

@@ -22,7 +22,7 @@ You have already made your letter 'n'. From this, you can easily derive the 'm',
 
 <img src="images/slide13.png" alt="" height="592" width="790">
 
-The 'i' can be derived from the stem of the 'n'. The 'l can be made from the stem of the 'n' with some adjustments.
+The 'i' can be derived from the stem of the 'n'. The 'l' can be made from the stem of the 'n' with some adjustments.
 
 ### Making the 'd' from the stem of 'h' and 'o'
 

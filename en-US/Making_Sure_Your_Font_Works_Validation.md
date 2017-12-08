@@ -87,14 +87,14 @@ Most of the errors that the Find Problems tool and the whole font validator look
 
 # Does the Design Work?  
 
-Typefaces can 'work' better or worse in two ways: readability and legibility. 
+Typefaces can 'work' better or worse in two ways: readability and legibility.
 
 
 Legibility means the designs of glyphs are distinct enough to be instantly recognised correctly. Here are some pairs that are often too similar:
 
 * the letter "L" and the number "1"
-* the letter "O" and the number "0" 
-* the letter "Z" and the number "2" 
+* the letter "O" and the number "0"
+* the letter "Z" and the number "2"
 * the numbers "1" and "7”
 
 Readability means all the glyphs work well together for a familiar, comfortable reading experience. Creating test documents is the best way to ensure this. If you have a complete alphabet then you can typeset real text &mdash; for example using [FontFriend](http://somadesign.ca/projects/fontfriend/) to drag and drop your font into a long news article you wish to read, then printing it out.

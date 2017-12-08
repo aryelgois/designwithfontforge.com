@@ -96,7 +96,7 @@ If you don't have a three button mouse you can emulate that by enabling it in X1
 If you primarily use X11 for FontForge, you can change its icon. Copy and paste the following text into the terminal and follow the instructions
 
 ```
-sudo cp -f /Applications/FontForge.app/Contents/Resources/FontForge.icns /Applications/Utilities/XQuartz.app/Contents/Resources/X11.icns | sudo touch /Applications/Utilities/XQuartz.app 
+sudo cp -f /Applications/FontForge.app/Contents/Resources/FontForge.icns /Applications/Utilities/XQuartz.app/Contents/Resources/X11.icns | sudo touch /Applications/Utilities/XQuartz.app
 ```
 
 

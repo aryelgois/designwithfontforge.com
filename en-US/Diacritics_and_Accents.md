@@ -60,7 +60,7 @@ In FontForge's 'Element' menu is a 'Build' function that can be used to create a
 
 <img src="images/dia_auto_a_acute.png"/>
 
-This automatic placement of diacritic marks can be tuned by preferences, found in the 'accents' section of FontForge's preferences menu 'File > Preferences > Accents' (see below). 
+This automatic placement of diacritic marks can be tuned by preferences, found in the 'accents' section of FontForge's preferences menu 'File > Preferences > Accents' (see below).
 
 <img src="images/preferences_accents.png" />
 
@@ -69,9 +69,9 @@ This automatic placement of diacritic marks can be tuned by preferences, found i
 'AccentOffsetPercent' controls the amount of vertical space between the base glyph and the mark glyph. The value entered here is a percentage of the em square of the font. So a value of '6' will offset the mark glyph from the base glyph by 6 percent of the font's em square.
 
 The preferences for the horizontal placement of the mark glyph can also be set. Selecting 'On' for the preference 'AccentCenterLowest' will center the accent glyph by the lowest point of the base glyph.
- 
+
 Selecting 'AccentCenterHighest' to 'On' will center the accent by the highest point of the base glyph.
- 
+
 Selecting both the above preferences to 'Off' will center the accent in the width of the base glyph. Selecting both the above preferences to 'On' will center the accent by the width of the character slot.
 
 

@@ -11,7 +11,7 @@ to begin populating the font with letters whose structural characteristics provi
 for making many of the other letters in the font.
 
 It may be tempting to rush and populate your font as rapidly as possible with all the letters
-&mdash; resist this urge!  
+&mdash; resist this urge!
 
 While ‘o’ and ‘n’ provide an excellent starting-point to the foundation of the design, we need to
 establish the rest of it. Rapid expansion before this is done will mean that the whole project will
@@ -21,7 +21,7 @@ What else do we need for the foundation of our design? &mdash; First, let’s lo
 with our ‘n’ and ‘o’.
 
 Although the ‘o’ is especially useful for working out the basic spacing, it’s not going to help us
-design other characters &mdash; not necessarily even the ‘b’ or ‘d’.  
+design other characters &mdash; not necessarily even the ‘b’ or ‘d’.
 
 The letter ‘n’, on the other hand, is very useful because it helps making the ‘m’, ‘h’, and ‘u’. The
 other factor that we need to weigh when choosing letters for our foundation is how frequently the
@@ -31,7 +31,7 @@ chosen almost exclusively for this particular reason.
 The letters you choose don’t have to be those suggested here. They should simply have the
 characteristics being discussed. So, for instance, you may want to use “a d h e s i o n” to start
 with. This set of letters is what’s used in the type design MA course at the University of Reading,
-UK.  
+UK.
 
 An alternative is “v i d e o s p a n” which is used by the foundry *Type Together* to start their
 projects, and in their own type design workshops. Either set has enough DNA to be meaningful, and
@@ -89,6 +89,6 @@ This is essential for deeply understanding how the design performs, so its good 
 But watch out for the **stale text** effect.
 If you re-use the same real text for testing your typeface, it can become so familiar that you lose some perception abilities for how the typeface is performing.
 
-Once you have a full alphabet, to ensure fresh text, you can set your operating system font, email application, or web browser's default font to be your font. 
+Once you have a full alphabet, to ensure fresh text, you can set your operating system font, email application, or web browser's default font to be your font.
 
 This was discussed on the TypeDrawers [On The Use of Blind Texts](http://typedrawers.com/discussion/918/on-the-use-of-blind-texts) thread.

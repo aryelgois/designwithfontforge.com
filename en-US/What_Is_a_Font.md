@@ -45,8 +45,8 @@ Let’s begin by identifying the main systemic characteristics in type design.
 Construction refers to the structure of the underlying strokes that form a particular glyph. Perhaps
 you can imagine the glyph’s skeleton. The kind of construction to use is arguably one of the most
 important questions to think about, because the construction affects so many of the remaining
-choices, particularly if your design is going to feel somewhat familiar to readers. In the example 
-above, the white line inside the letters indicate the approximate construction suggested by the shape 
+choices, particularly if your design is going to feel somewhat familiar to readers. In the example
+above, the white line inside the letters indicate the approximate construction suggested by the shape
 of the letters themselves.
 
 However, the way strokes end (the ‘terminals’) and the ‘serifs’ (see below) are generally not part
@@ -78,7 +78,7 @@ elegance to the look of a typeface. They often go with smaller x-height.
 
 <img src="images/Descender%20depth.png" alt>
 
-Like ascenders, descenders that are long can feel elegant. 
+Like ascenders, descenders that are long can feel elegant.
 
 Taken together, long ascenders and descenders can become difficult to manage. If the typeface will
 be used with small line heights, the elongation means letters can collide across rows of text.
@@ -121,7 +121,7 @@ sheer distinction from contrasted type. Like the choice between serifs or sans-s
 an early choice of type design. It is interesting to note that ‘slab’ serif designs generally use
 consistent stroke width in their letters, and that the design of slab serifs is not merely about the
 serif, as it sounds! It must be remembered that the rules of perception apply (see [“Trusting Your
-Eyes”](Trusting_Your_Eyes.html)) &mdash; contrast is about how the weight looks but not how it measures out to be.
+Eyes”]) &mdash; contrast is about how the weight looks but not how it measures out to be.
 
 ### Angle of contrast
 
@@ -273,5 +273,3 @@ angular ([Rockwell]).
 [Rockwell]: http://www.myfonts.com/fonts/mti/rockwell/
 [Courier]: http://typedia.com/explore/typeface/courier/
 [American typewriter]: http://www.myfonts.com/fonts/linotype/itc-american-typewriter/
-
-

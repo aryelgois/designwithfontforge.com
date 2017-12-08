@@ -16,7 +16,7 @@ This book aims to offer technical help and general insight into planning a type 
 also offers advice about how to make your workflow more efficient.
 
 If you wish to help us, you can contribute to making FontForge better by giving feedback or even by
-contributing content and fixes [on GitHub].  
+contributing content and fixes [on GitHub].
 
 If you face any bug in FontForge, search the [issue tracker] on GitHub to see if you hit a known bug
 and what the state of its resolution is. Otherwise, see [here][bug] for bug reporting guidelines.

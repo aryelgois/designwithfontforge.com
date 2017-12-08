@@ -73,7 +73,7 @@ Now, you should see something like this:
 <img src="images/S%20at%2083%20from%20Untitled1%20-_028.png" alt>
 
 Toggle out of Spiro mode back into B&eacute;zier mode. You will notice there are a lot of points on
-the resulting curve &mdash; you may want to clean some of them up. 
+the resulting curve &mdash; you may want to clean some of them up.
 
 <img src="images/S%20at%2083%20from%20Untitled1%20-_031.png" alt>
 
