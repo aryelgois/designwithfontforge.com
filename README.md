@@ -13,8 +13,8 @@ responsible to each file.
 |  2 | [What Is a Font]                             | [O que é uma Fonte?]                          | [aryelgois]  | [:white_check_mark:]
 |  3 | [Trusting Your Eyes]                         | [Confiando em seus olhos]                     | [Furnivaley] | [:white_check_mark:]
 |  4 | [Planning Your Project]                      | [Planejando o seu Projeto]                    | [vncthnrq]   | [:pencil:]
-|  5 | [The EM Square]                              | [A medida Eme - <em>Quadratim</em>]           | [KnotBR]     | [:white_check_mark:]
-|  6 | [Installing Fontforge]                       | [Instalando o FontForge]                      | [vncthnrq]   | [:pushpin:]
+|  5 | [The EM Square]                              | [A medida Eme]                                | [KnotBR]     | [:white_check_mark:]
+|  6 | [Installing Fontforge]                       | [Instalando o Fontforge]                      | [vncthnrq]   | [:pushpin:]
 |  7 | [Configuring Fontforge]                      | [Configurando o Fontforge]                    | [Furnivaley] | [:pushpin:]
 |  8 | [General UI introduction]                    | [Introdução Geral à Interface de Usuário]     | [KnotBR]     | [:white_check_mark:]
 |  9 | [Using the Fontforge Drawing Tools]          | [Usando as Ferramentas de Desenho do FF]      | [aryelgois]  | [:white_check_mark:]
@@ -34,11 +34,11 @@ responsible to each file.
 | 23 | [Spacing, Metrics and Kerning]               | [Espaçamento, Métricas e Kerning]             |
 | 24 | [Making Sure Your Font Works, Validation]    | [Confira se sua fonte funciona, Validação]    |
 | 25 | [The Final Output Generating Font Files]     | [Gerando Arquivos Finais de Fonte]            |
-| 26 | [When Things Go Wrong With Fontforge Itself] | [Quando as coisas dão errado com o FontForge] |
+| 26 | [When Things Go Wrong With Fontforge Itself] | [Quando as coisas dão errado com o Fontforge] |
 | 27 | [Designing Devanagari Typefaces]             | [Projetando Tipografia Devanágari]            |
 | 28 | [Importing Glyphs from Other Programs]       | [Importando Glifos de outros programas]       |
 | 29 | [Adding Glyphs to an Arabic Font]            | [Adicionando Glifos para uma fonte Árabe]     |
-| 30 | [Further Reading]                            | [Leitura recomendada]                         |
+| 30 | [Further Reading]                            | [Leitura adicional]                           |
 | 31 | [Font Editor Tool History]                   | [História das Ferramentas de edição de Fonte] |
 | 32 | [Glossary]                                   | [Glossário]                                   | [marcelommp] | [:pushpin:]
 
@@ -81,8 +81,8 @@ responsible to each file.
 [O que é uma Fonte?]:                          ../brazilian-portuguese/pt-BR/What_Is_a_Font.md
 [Confiando em seus olhos]:                     ../brazilian-portuguese/pt-BR/Trusting_Your_Eyes.md
 [Planejando o seu Projeto]:                    ../brazilian-portuguese/pt-BR/Planning_Your_Project.md
-[A medida Eme - <em>Quadratim</em>]:           ../brazilian-portuguese/pt-BR/The_EM_Square.md
-[Instalando o FontForge]:                      ../brazilian-portuguese/pt-BR/Installing_Fontforge.md
+[A medida Eme]:                                ../brazilian-portuguese/pt-BR/The_EM_Square.md
+[Instalando o Fontforge]:                      ../brazilian-portuguese/pt-BR/Installing_Fontforge.md
 [Configurando o Fontforge]:                    ../brazilian-portuguese/pt-BR/Configuring_FontForge.md
 [Introdução Geral à Interface de Usuário]:     ../brazilian-portuguese/pt-BR/General_UI_Introduction.md
 [Usando as Ferramentas de Desenho do FF]:      ../brazilian-portuguese/pt-BR/Using_the_Fontforge_Drawing_Tools.md
@@ -102,11 +102,11 @@ responsible to each file.
 [Espaçamento, Métricas e Kerning]:             ../brazilian-portuguese/pt-BR/Spacing_Metrics_and_Kerning.md
 [Confira se sua fonte funciona, Validação]:    ../brazilian-portuguese/pt-BR/Making_Sure_Your_Font_Works_Validation.md
 [Gerando Arquivos Finais de Fonte]:            ../brazilian-portuguese/pt-BR/The_Final_Output_Generating_Font_Files.md
-[Quando as coisas dão errado com o FontForge]: ../brazilian-portuguese/pt-BR/When_Things_Go_Wrong_With_Fontforge_Itself.md
+[Quando as coisas dão errado com o Fontforge]: ../brazilian-portuguese/pt-BR/When_Things_Go_Wrong_With_Fontforge_Itself.md
 [Projetando Tipografia Devanágari]:            ../brazilian-portuguese/pt-BR/Designing_Devanagari_Typefaces.md
 [Importando Glifos de outros programas]:       ../brazilian-portuguese/pt-BR/Importing_Glyphs_from_Other_Programs.md
 [Adicionando Glifos para uma fonte Árabe]:     ../brazilian-portuguese/pt-BR/Adding_Glyphs_to_an_Arabic_Font.md
-[Leitura recomendada]:                         ../brazilian-portuguese/pt-BR/Further_Reading.md
+[Leitura adicional]:                           ../brazilian-portuguese/pt-BR/Further_Reading.md
 [História das Ferramentas de edição de Fonte]: ../brazilian-portuguese/pt-BR/Font_Editor_History.md
 [Glossário]:                                   ../brazilian-portuguese/pt-BR/Glossary.md
 
