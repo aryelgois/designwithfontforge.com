@@ -17,7 +17,7 @@ published: false
 | 21     | Desenhando com Spiro                       |
 | 24     | Criando ‘o’ e ‘n’                          |
 | 27     | Informações da Fonte & Metadata            |
-| 30     | Espaçando palavras                         |
+| 30     | Espaçamento de palavras                    |
 | 33     | Criando o DNA do seu Tipo                  |
 | 36     | Letras Maiúsculas                          |
 | 39     | Espaçando linhas                           |

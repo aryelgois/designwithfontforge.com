@@ -3,37 +3,37 @@ published: true
 layout: bookpage_pt-BR
 weight: 30
 category: workflow
-title: Espaçando palavras
+title: Espaçamento de palavras
 ---
 
-It may sound funny to pay special attention to the word space; however, it is one of the most
-commonly used parts of a type design.
+Pode parecer engraçado dar uma atenção especial ao espaçamento das palavras; contudo, isto é uma das partes
+mais utilizadas do design de tipos.
 
-A word space that is too wide or too narrow can ruin the design of a font. It’s not too early to
-begin considering the word spacing as long as you have your first characters set up. The choice you
-make at this point should be gradually adjusted while you progress in the design of the font.
+Um espaçamento que é muito largo ou muito estreito pode arruinar o design de uma fonte. Não é cedo demais para
+começar a considerar o espaçamento das palavras desde que você tenha seus primeiros caracteres prontos. A escolha que você
+faz nesse ponto deve ser gradualmente ajustada enquanto você avança no projeto da fonte.
 
-The word space here is too tight&hellip;
+Aqui, o espaçamento das palavras é muito apertado&hellip;
 
 <img src="../en-US/images/Screen%20Shot%202012-12-06%20at%204.51.42%20PM.png" alt height="251" width="486">
 
-And here, it’s too wide&hellip;
+E aqui, está muito afastado&hellip;
 
 <img src="../en-US/images/Screen%20Shot%202012-12-06%20at%204.51.16%20PM.png" alt height="273" width="474">
 
-Now this is well-balanced&hellip;
+Agora ele está bem balanceado&hellip;
 
 <img src="../en-US/images/Screen%20Shot%202012-12-06%20at%204.49.50%20PM.png" alt height="270" width="466">
 
-If your type is meant to be used at larger sizes, then the word space can be reduced &mdash; and
-*vice-versa* if it’s to be used at very small sizes.
+Se seu tipo é para ser usado em tamanhos maiores, então o espaçamento das palavras pode ser reduzido &mdash; e
+*vice-versa* se é para ele ser usado em tamanhos diminutos.
 
-The research has shown that a word space that’s too large is more tolerable than one that’s too
-small, so if you are unsure you may want to err in that direction.
+Pesquisas têm mostrado que um espaçamento de palavras que é muito grande é mais aceitável do que um muito
+pequeno, então na dúvida você pode querer errar para essa direção.
 
-<div class="note"><p><b>Note:</b> Similar studies have shown that younger children in particular
-benefit a little from word spaces larger than what’s considered normal for adult readers.</p>
+<div class="note"><p><b>Nota:</b> Estudos similares mostram que as crianças mais novas em particular
+beneficiam-se um pouco de espaçamentos maiores do que aqueles considerados normais para leitores adultos.</p>
 
-<p>Linda Reynolds and Sue Walker (2004) &mdash; ‘You can’t see what the words say: word spacing and
+<p>Linda Reynolds e Sue Walker (2004) &mdash; ‘You can’t see what the words say: word spacing and
 letter spacing in children’s reading books’, <i>Journal of Research in Reading</i>, vol 27, no.1,
 pp. 87-98.</p></div>
