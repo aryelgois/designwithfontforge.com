@@ -27,17 +27,17 @@ Le 'i' peut être dérivé du fût du 'n.' Le 'l' peut être fait à partir du f
 
 Ouvrez la fenêtre de glyphe de la lettre 'd' en double-cliquant en dessous de 'd' dans la fenêtre de fonte. À partir de la fenêtre de fonte, copiez le 'o' et le coller dans la fenêtre de glyphe de la lettre 'd'. Ensuite, faites la même chose pour le 'h'. À ce stade, vous pouvez supprimer la partie du h que vous n'allez pas utiliser. Positionner les pièces restantes ensemble afin que cela ressemble à un 'd'.
 
-<img src="../en-US/images/d%20at%20111%20from%20Untitled1%20-_040-fr-FR.png" alt="" height="744" width="916">
+<img src="../en-US/images/d%20at%20111%20from%20Untitled1%20-%5F040-fr-FR.png" alt="" height="744" width="916">
 
 De toute évidence, il y a encore du travail à faire ici. Nous allons faire quelques ajustements. Affinez le côté droit du o où il rencontre le fût.
 
-<img src="../en-US/images/d%20at%20101%20from%20Untitled1%20-_041-fr-FR.png" alt="" height="744" width="916">
+<img src="../en-US/images/d%20at%20101%20from%20Untitled1%20-%5F041-fr-FR.png" alt="" height="744" width="916">
 
 Pour améliorer l'espacement optique et permettre à la forme de paraître plus équilibré, faites un peu de place à l'empattement en ajoutant un point au fût et en déplaçant les points du bas vers la droite.
 
 Ci-dessous, vous voyez une superposition de la forme de départ et de la nouvelle forme.
 
-<img src="../en-US/images/d%20at%20101%20from%20Untitled1%20-_042-fr-FR.png" alt="" height="744" width="916">
+<img src="../en-US/images/d%20at%20101%20from%20Untitled1%20-%5F042-fr-FR.png" alt="" height="744" width="916">
 
 Maintenant que vous savez comment assembler à partir de pièces existantes, vous pouvez faire d'autres lettres semblables. Gardez à l'esprit les subtilités qui font chaque lettre individuelle, mais qui sont partie d'une famille.
 

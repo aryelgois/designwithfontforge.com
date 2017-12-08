@@ -309,27 +309,27 @@ Next we will go over some basic drawing workflows, which you often find yourself
 1. Start by using the Rectangle tool to draw a rectangle within the drawing area of the Glyph
    window.
 2. Next, use the Ellipse tool to draw an ellipse within the rectangle you just drew.  
-   <img src="images/O%20at%2079%20from%20Untitled1%20-_010.png" alt>
+   <img src="images/O%20at%2079%20from%20Untitled1%20-%5F010.png" alt>
 3. Go to the Element menu and choose *Correct Direction*. You will see that the two shapes merged,
    and that you essentially punched a hole in the center of the rectangle.  
-   <img src="images/O%20at%2079%20from%20Untitled1%20-_011.png" alt>
+   <img src="images/O%20at%2079%20from%20Untitled1%20-%5F011.png" alt>
 
 ### Remove overlap
 
 1. Add a star that overlaps the corner of the rectangle.  
-   <img src="images/O%20at%2079%20from%20Untitled1%20-_012.png" alt>
+   <img src="images/O%20at%2079%20from%20Untitled1%20-%5F012.png" alt>
 2. Select the star and the earlier shape. You only need to select one point of each overlapping
    shape, but it is okay to select extra points.
 3. Go to Element &gt; Overlap &gt; *Remove overlap*. You will see that your two shapes have become
    one.  
-   <img src="images/O%20at%2079%20from%20Untitled1%20-_013.png" alt>
+   <img src="images/O%20at%2079%20from%20Untitled1%20-%5F013.png" alt>
 
 ### Add a Point
 
 Using the Pen tool, click and hold in the middle of a line segment, then drag the mouse to change
 the shape.
 
-<img src="images/O%20at%2079%20from%20Untitled1%20-_014.png" alt>
+<img src="images/O%20at%2079%20from%20Untitled1%20-%5F014.png" alt>
 
 ### Tangent points
 
@@ -342,19 +342,19 @@ To do so, choose Element &gt; *Get Info*, which opens the Point Info Window. Fro
 in that window, go to the Next CP field set and set the Distance to a large number, such as 75.
 Click OK. You will see that the curve now smoothly enters the straight line.
 
-<img src="images/O%20at%2079%20from%20Untitled1%20-_015.png" alt>
+<img src="images/O%20at%2079%20from%20Untitled1%20-%5F015.png" alt>
 
 ### Transformation
 
 Now select about a quarter of the shape &mdash; the star and part of the ellipse in the middle.
 
-<img src="images/O%20at%2079%20from%20Untitled1%20-_016.png" alt>
+<img src="images/O%20at%2079%20from%20Untitled1%20-%5F016.png" alt>
 
 Choose the 3D Rotate tool, move to the middle of the selected area, and slowly click and drag until
 you see something you like, then release. Here is an example of 3D Rotate used on the practice
 image:
 
-<img src="images/O%20at%2079%20from%20Untitled1%20-_017.png" alt>
+<img src="images/O%20at%2079%20from%20Untitled1%20-%5F017.png" alt>
 
 ### Set stroke shape and width
 
@@ -370,7 +370,7 @@ Using the Corner tool, draw a polygon and click OK.
 Now, draw a line with the Freehand drawing tool. When you release the mouse button, the new path is
 automatically stroked with the shape you chose in the Freehand dialog, as shown here.
 
-<img src="images/Q%20at%2081%20from%20Untitled1%20-_019.png" alt>
+<img src="images/Q%20at%2081%20from%20Untitled1%20-%5F019.png" alt>
 
 ## Keep drawing!
 

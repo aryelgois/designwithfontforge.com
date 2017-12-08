@@ -240,24 +240,24 @@ FontForge的画布默认有3个图层：引导图层，背景图层和前景图�
 ### 在一个图形内切掉另一个图形
 
 1. 首先在字形窗口的绘制区域用矩形工具绘制一个矩形。
-2. 接下来使用椭圆工具在你刚刚绘制的矩形内绘制一个椭圆。 
-   <img src="../en-US/images/O%20at%2079%20from%20Untitled1%20-_010.png" alt width="917">
+2. 接下来使用椭圆工具在你刚刚绘制的矩形内绘制一个椭圆。
+   <img src="../en-US/images/O%20at%2079%20from%20Untitled1%20-%5F010.png" alt width="917">
 3. 在Element菜单选择*Correct Direction*。你将会看到两个图形合并了，在矩形的中央穿出一个洞来。
-   <img src="../en-US/images/O%20at%2079%20from%20Untitled1%20-_011.png" alt width="917">
+   <img src="../en-US/images/O%20at%2079%20from%20Untitled1%20-%5F011.png" alt width="917">
 
 ### 移除重叠区域
 
-1. 添加一个星形，与矩形的角重叠。 
-   <img src="../en-US/images/O%20at%2079%20from%20Untitled1%20-_012.png" alt height="744" width="917">
+1. 添加一个星形，与矩形的角重叠。
+   <img src="../en-US/images/O%20at%2079%20from%20Untitled1%20-%5F012.png" alt height="744" width="917">
 2. 选中星形和之前的图形。你只需要选择每个重叠图形的一个点，但是选择额外的点也可以。
 3. 点击Element &gt; Overlap &gt; *Remove overlap*。你将会看到两个图形合成一个。
-   <img src="../en-US/images/O%20at%2079%20from%20Untitled1%20-_013.png" alt>
+   <img src="../en-US/images/O%20at%2079%20from%20Untitled1%20-%5F013.png" alt>
 
 ### 添加一个点
 
 使用钢笔工具，在一条线段的中间点击不放，并拖动鼠标改变图形。
 
-<img src="../en-US/images/O%20at%2079%20from%20Untitled1%20-_014.png" alt width="917">
+<img src="../en-US/images/O%20at%2079%20from%20Untitled1%20-%5F014.png" alt width="917">
 
 ### 切点
 
@@ -265,17 +265,17 @@ FontForge的画布默认有3个图层：引导图层，背景图层和前景图�
 
 为了这么做，选择Element &gt; *Get Info*，打开了点信息窗口。在窗口中的Location选项卡的Next CP设置，设定一个大数，比如75。点击OK。你将会看到曲线平滑地进入直线。
 
-<img src="../en-US/images/O%20at%2079%20from%20Untitled1%20-_015.png" alt>
+<img src="../en-US/images/O%20at%2079%20from%20Untitled1%20-%5F015.png" alt>
 
 ### 变形
 
 现在选择大概图形的四分之一 &mdash; 星形和矩形的一部分在中间。
 
-<img src="../en-US/images/O%20at%2079%20from%20Untitled1%20-_016.png" alt>
+<img src="../en-US/images/O%20at%2079%20from%20Untitled1%20-%5F016.png" alt>
 
 选择3D旋转工具，移动到选择区域的中央，慢慢地点击拖动知道看到你喜欢的形状，然后松开。这是在实际图像中应用3D旋转的例子：
 
-<img src="../en-US/images/O%20at%2079%20from%20Untitled1%20-_017.png" alt height="739" width="914">
+<img src="../en-US/images/O%20at%2079%20from%20Untitled1%20-%5F017.png" alt height="739" width="914">
 
 ### 设置绘制形状和宽度
 
@@ -287,7 +287,7 @@ FontForge的画布默认有3个图层：引导图层，背景图层和前景图�
 
 现在使用自由绘制工具绘制一条线。当你松开鼠标按钮的时候，像下面一样，新的路径自动使用你在自由绘制对话框里选择的宽度和形状和绘制。
 
-<img src="../en-US/images/Q%20at%2081%20from%20Untitled1%20-_019.png" alt height="744" width="916">
+<img src="../en-US/images/Q%20at%2081%20from%20Untitled1%20-%5F019.png" alt height="744" width="916">
 
 ## 继续绘制！
 

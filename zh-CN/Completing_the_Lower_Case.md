@@ -28,17 +28,17 @@ title: 完成小写字母
 
 在字形窗口的字体视图中通过双击“d”打开字母“d”的字形窗口。在字体窗口中复制“o”并粘贴进字母“d”的字形窗口。然后为“h”做同样的事情。在这时你可以删除h中不准备使用的一部分。把剩下的部分摆放在一起，这样他们像一个d一样。
 
-<img src="../en-US/images/d%20at%20111%20from%20Untitled1%20-_040.png" alt="" height="744" width="916">
+<img src="../en-US/images/d%20at%20111%20from%20Untitled1%20-%5F040.png" alt="" height="744" width="916">
 
 很明显这里还有一些工作需要做。我们将做出一些调整。让o的右边变窄，这样可以与茎匹配。
 
-<img src="../en-US/images/d%20at%20101%20from%20Untitled1%20-_041.png" alt="" height="744" width="916">
+<img src="../en-US/images/d%20at%20101%20from%20Untitled1%20-%5F041.png" alt="" height="744" width="916">
 
 为了改善视觉间距并让图形看起来更平衡，通过在茎上添加一个点，让底部指向右边，在衬线上腾出地方来。
 
 下面是最初的图形和新图形的覆盖图。
 
-<img src="../en-US/images/d%20at%20101%20from%20Untitled1%20-_042.png" alt="" height="744" width="916">
+<img src="../en-US/images/d%20at%20101%20from%20Untitled1%20-%5F042.png" alt="" height="744" width="916">
 
 现在你知道该如何组装已有的部分，你可以制作其他类似的字母。要时时注意使得每个字母独特但仍处在一个字体家族中的微妙之处。
 

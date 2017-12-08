@@ -18,7 +18,7 @@ FontForge可以将你的字体导出为各种不同的格式，但是在实践�
 
 对于OpenType字体来说，首先要修正所有路径的方向。按<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>D</kbd>或者在“Element”菜单下选择Correct Direction”。接下来检查以确保没有未闭合的路径。勾选“Paths”选项卡下的<em>Open paths</em>选项，点击OK来运行测试。一旦你的字体通过测试没有错误，你就准备好生成OpenType输出。
 
-对于TrueType字体来说，需要一些额外的步骤。你应该首先想上面描述的一样修正所有路径的方向。接下来调整所有的点使其拥有整型坐标：按<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>_</kbd>（下划线）或者从Element -&gt; Round菜单中选择<em>To Int</em>。最终，像上面描述的那样打开“Find Problems”工具，选择<em>Open paths</em>，同时在“Refs”选项卡下选中所有。
+对于TrueType字体来说，需要一些额外的步骤。你应该首先想上面描述的一样修正所有路径的方向。接下来调整所有的点使其拥有整型坐标：按<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>&#95;</kbd>（下划线）或者从Element -&gt; Round菜单中选择<em>To Int</em>。最终，像上面描述的那样打开“Find Problems”工具，选择<em>Open paths</em>，同时在“Refs”选项卡下选中所有。
 
 在你运行这些测试没有错误时，你需要将你的路径转换为二次曲线。从“Element”菜单打开“Font Info”窗口。点击“Layers”选项卡，勾选<em>All layers quadratic</em>选项。点击窗口底部的OK，你就准备好生成TrueType输出。
 

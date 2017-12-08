@@ -201,7 +201,7 @@ Le Professeur Girish Davli de l'IIT Bombay IDC (comparable au MIT Media Lab des 
 
 Si vous êtes nouveau dans l'écriture Devanagari, il est important de prendre conscience de la pression de la plume calligraphique traditionnelle, qui est différente de celle du latin. Voici une démonstration rapide de l'angle d'attaque et de la façon traditionnelle d'appliquer la graisse aux courbes. Votre conception sera plus réussie, et apparaîtra moins «latinisé», si vous dessinez vos courbes selon ces principes de graisse, plutôt que de couper-et-coller des parties de lettres de l'alphabet latin.
 
-<iframe width="560" height="315" src="//www.youtube-nocookie.com/embed/_P-Ty512SyA?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="//www.youtube-nocookie.com/embed/%5FP-Ty512SyA?rel=0" frameborder="0" allowfullscreen></iframe>
 
 La page [Devanagari Unicode](http://www.unicode.org/fr/charts/PDF/U0900.pdf) montre les lettres de base, mais pas les conjonctions.
 

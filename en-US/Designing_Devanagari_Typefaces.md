@@ -200,7 +200,7 @@ Lohit2 Devanagari can be used as a base for new OFL fonts by using its Glyph Lis
 
 If you're new to Devanagari script, it's important to become aware of traditional calligraphic pen stress, which is different than in Latin. Here's a quick demonstration of the stroke angle, and how curves were traditionally weighted. Your design will be more successful, and appear less "Latinized", if you draw your curves according to these weight principles, rather than cutting-and-pasting Latin alphabet letter parts.
 
-<iframe width="560" height="315" src="//www.youtube-nocookie.com/embed/_P-Ty512SyA?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="//www.youtube-nocookie.com/embed/%5FP-Ty512SyA?rel=0" frameborder="0" allowfullscreen></iframe>
 
 The [Devanagari Unicode page](http://www.unicode.org/charts/PDF/U0900.pdf) shows the basic letters, but not the conjuncts.
 

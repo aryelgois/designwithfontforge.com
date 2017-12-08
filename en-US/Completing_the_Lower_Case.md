@@ -28,17 +28,17 @@ The 'i' can be derived from the stem of the 'n'. The 'l' can be made from the st
 
 Open the glyph window for the letter 'd' by double-clicking below the 'd' in the font view. From the font view, copy the 'o' and paste it into the glyph window for the letter 'd'. Then do the same for the 'h'. At this point you can delete the part of the 'h' that you're not going to use. Position the remaining pieces together so they resemble a 'd'.
 
-<img src="images/d%20at%20111%20from%20Untitled1%20-_040.png" alt="" height="744" width="916">
+<img src="images/d%20at%20111%20from%20Untitled1%20-%5F040.png" alt="" height="744" width="916">
 
 Clearly, there's more work to be done here. We'll make some adjustments. Narrow the right side of the 'o' where it meets the stem.
 
-<img src="images/d%20at%20101%20from%20Untitled1%20-_041.png" alt="" height="744" width="916">
+<img src="images/d%20at%20101%20from%20Untitled1%20-%5F041.png" alt="" height="744" width="916">
 
 To improve the optical spacing and allow the shape to look more balanced, make a little room at the serif by adding a point to the stem and pushing the bottom points to the right.
 
 Below is an overlay of the starting shape and the new shape.
 
-<img src="images/d%20at%20101%20from%20Untitled1%20-_042.png" alt="" height="744" width="916">
+<img src="images/d%20at%20101%20from%20Untitled1%20-%5F042.png" alt="" height="744" width="916">
 
 Now that you know how to assemble from existing parts, you can make other similar letters. Keep in mind the subtleties that make each letter individual, yet still part of a family.
 

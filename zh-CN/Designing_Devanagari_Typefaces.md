@@ -43,7 +43,7 @@ _感谢Adam Twardoch、Erin McLaughlin、Neelakash Kshetrimayum、Dan Reynolds�
 
 > 通过这一研究的结果我们可以推断出10个字母अ इ ए ख त भ द ध थ ष可以捕获几乎所有的剩余天城体字母的正式属性。在这些字母中，字母अ इ ख भ द ध ष定义了大多数字母的特性，是最具决定性的。因此我们认为通过首先设计这些字母，天城体设计的流程可以为学生和字体设计师简化，剩下的字母可以通过这些衍生出来。
 
-Erin McLaughlin建议将这些字形作为一个初始连字：**पाव + किमीनुफू + भरसगदह + र्मों ड्डू (height extremes) + यथधआछड … 连续字符集合**并建议关注“Au”元音标记 + reph + anusvara连字！这里的Ma是为了后继。
+Erin McLaughlin建议将这些字形作为一个初始连字：**पाव + किमीनुफू + भरसगदह + र्मों ड्डू (height extremes) + यथधआछड … 连续字符集合** 并建议关注“Au”元音标记 + reph + anusvara连字！这里的Ma是为了后继。
 
 字形的高度极值允许你确定竖直度量值和如何缩放两个书写系统来共同工作。Adobe发布了非常大的字体家族覆盖各种不同的正字法。它们根据共享的一般比例分成不同的家族；Myriad Pro包含Latin,、Greek和Cyrillic，而Hebrew与Arabic设计打包成分来的家族，包含在**改进的**Latin中. 
 
@@ -188,7 +188,7 @@ Lohit2天城体可以通过使用其字形列表和OpenType布局码来作为新
 
 印度理工学院孟买分校（比得上美国的麻省理工学院媒体实验室）的Girish Davli教授发表了这个[天城体刨析文章（PDF）](https://web.archive.org/web/20130913220315/http://www.idc.iitb.ac.in/resources/dt-jan-2009/Anatomy%20of%20Devanagari.pdf)
 
-如果你对天城体书写字母的不熟悉，那么知道传统书法笔锋力道是重要的，这与拉丁不同。这里有一个笔画角度和曲线如何传统地赋予粗细的快速文档。如果你遵循这些粗细原则来绘制你的曲线，而不是剪切粘贴拉丁字母的一部分，那么你的设计将会更加成功，并且看起来更少“拉丁化”。<br /><iframe width="560" height="315" src="//www.youtube-nocookie.com/embed/_P-Ty512SyA?rel=0" frameborder="0" allowfullscreen></iframe>
+如果你对天城体书写字母的不熟悉，那么知道传统书法笔锋力道是重要的，这与拉丁不同。这里有一个笔画角度和曲线如何传统地赋予粗细的快速文档。如果你遵循这些粗细原则来绘制你的曲线，而不是剪切粘贴拉丁字母的一部分，那么你的设计将会更加成功，并且看起来更少“拉丁化”。<br /><iframe width="560" height="315" src="//www.youtube-nocookie.com/embed/%5FP-Ty512SyA?rel=0" frameborder="0" allowfullscreen></iframe>
 
 [天城体Unicode页面](http://www.unicode.org/charts/PDF/U0900.pdf) 展示了基本字母，但没有连字。
 

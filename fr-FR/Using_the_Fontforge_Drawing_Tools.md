@@ -317,27 +317,27 @@ Maintenant, examinons quelques workflows de dessin de base, dont vous aurez souv
    la fenêtre de glyphe.
 2. Ensuite, utilisez l'outil ellipse pour dessiner une ellipse dans le rectangle que vous venez de
    dessiner.
-    <Img src = "../en-US/images/O%20at%2079%20from%20Untitled1%20-_010-fr-FR.png" alt>
+    <Img src = "../en-US/images/O%20at%2079%20from%20Untitled1%20-%5F010-fr-FR.png" alt>
 3. Allez dans le menu Élément et choisissez *Corriger direction*. Vous verrez que les deux formes
    se sont fusionnées, et que vous avez essentiellement percé un trou dans le centre du rectangle.
-   <Img src = "../en-US/images/O%20at%2079%20from%20Untitled1%20-_011-fr-FR.png" alt>
+   <Img src = "../en-US/images/O%20at%2079%20from%20Untitled1%20-%5F011-fr-FR.png" alt>
 
 ### Supprimer le chevauchement
 
 1. Ajoutez une étoile qui chevauche le coin du rectangle.
-    <Img src = "../en-US/images/O%20at%2079%20from%20Untitled1%20-_012-fr-FR.png" alt>
+    <Img src = "../en-US/images/O%20at%2079%20from%20Untitled1%20-%5F012-fr-FR.png" alt>
 2. Sélectionnez l'étoile et la forme précédente. Il vous suffit de sélectionner un point de chaque
    forme chevauchante, mais il est acceptable de sélectionner des points supplémentaires.
 3. Allez à Élément &gt; Recouvrement &gt; *Enlever les recouvrements*. Vous verrez que vos deux
    formes sont devenues une seule.
-   <img src="../en-US/images/O%20at%2079%20from%20Untitled1%20-_013-fr-FR.png" alt>
+   <img src="../en-US/images/O%20at%2079%20from%20Untitled1%20-%5F013-fr-FR.png" alt>
 
 ### Ajouter un point
 
 À l'aide de l'outil plume, cliquez et maintenez au milieu d'un segment de ligne, puis faites glisser
 la souris pour changer la forme.
 
-<img src="../en-US/images/O%20at%2079%20from%20Untitled1%20-_014-fr-FR.png" alt>
+<img src="../en-US/images/O%20at%2079%20from%20Untitled1%20-%5F014-fr-FR.png" alt>
 
 ### Points tangents
 
@@ -351,20 +351,20 @@ Pour ce faire, choisissez Élément &gt; *Infos...*, qui ouvre la fenêtre Infos
 Emplacement de cette fenêtre, accédez au champ PdeC suivant et définissez une grande distance, par
 exemple 75. Cliquez sur OK. Vous verrez que la courbe se poursuit maintenant doucement dans la droite.
 
-<img src="../en-US/images/O%20at%2079%20from%20Untitled1%20-_015-fr-FR.png" alt>
+<img src="../en-US/images/O%20at%2079%20from%20Untitled1%20-%5F015-fr-FR.png" alt>
 
 ### Transformation
 
 Maintenant, sélectionnez environ un quart de la forme &mdash; l'étoile et une partie de l'ellipse au
 milieu.
 
-<img src="../en-US/images/O%20at%2079%20from%20Untitled1%20-_016-fr-FR.png" alt>
+<img src="../en-US/images/O%20at%2079%20from%20Untitled1%20-%5F016-fr-FR.png" alt>
 
 Choisissez l'outil Rotation 3D, déplacez-vous au milieu de la zone sélectionnée, puis cliquez lentement
 et faites glisser jusqu'à ce que vous voyiez quelque chose que vous aimez, puis relâchez. Voici un exemple
 de rotation 3D utilisé sur l'image de pratique:
 
-<img src="../en-US/images/O%20at%2079%20from%20Untitled1%20-_017-fr-FR.png" alt>
+<img src="../en-US/images/O%20at%2079%20from%20Untitled1%20-%5F017-fr-FR.png" alt>
 
 ### Définir la forme et la largeur du trait
 
@@ -382,7 +382,7 @@ Maintenant, tracez une ligne avec l'outil de dessin à main levée. Lorsque vous
 la souris, le nouveau chemin est automatiquement tracé avec la forme que vous avez choisie dans la boîte
 de dialogue à main levée, comme montré ici.
 
-<img src="../en-US/images/Q%20at%2081%20from%20Untitled1%20-_019-fr-FR.png" alt>
+<img src="../en-US/images/Q%20at%2081%20from%20Untitled1%20-%5F019-fr-FR.png" alt>
 
 ## Continuez à dessiner!
 
