@@ -21,7 +21,7 @@ responsible to each file.
 | 10 | [Drawing With Spiro]                         | [Desenhando com Spiro]                        | [KnotBR]     | [:books:]
 | 11 | [Creating “o” and “n”]                       | [Criando ‘o’ e ‘n’]                           | [KnotBR]     | [:white_check_mark:]
 | 12 | [Font Info & Metadata]                       | [Informações da Fonte & Metadata]             | [KnotBR]     | [:pushpin:]
-| 13 | [Word Space]                                 | [Espaçando palavras]                          | [aryelgois]  | [:pushpin:]
+| 13 | [Word Space]                                 | [Espaçamento de palavras]                     | [aryelgois]  | [:white_check_mark:]
 | 14 | [Creating Your Type DNA]                     | [Criando o DNA do seu Tipo]                   |
 | 15 | [Capital Letters]                            | [Letras Maiúsculas]                           |
 | 16 | [Line Spacing]                               | [Espaçando linhas]                            |
@@ -89,7 +89,7 @@ responsible to each file.
 [Desenhando com Spiro]:                        ../brazilian-portuguese/pt-BR/Drawing_With_Spiro.md
 [Criando ‘o’ e ‘n’]:                           ../brazilian-portuguese/pt-BR/Creating_o_and_n.md
 [Informações da Fonte & Metadata]:             ../brazilian-portuguese/pt-BR/Font_Info_&_Metadata.md
-[Espaçando palavras]:                          ../brazilian-portuguese/pt-BR/Word_Space.md
+[Espaçamento de palavras]:                     ../brazilian-portuguese/pt-BR/Word_Space.md
 [Criando o DNA do seu Tipo]:                   ../brazilian-portuguese/pt-BR/Creating_Your_Types_Dna.md
 [Letras Maiúsculas]:                           ../brazilian-portuguese/pt-BR/Capital_Letters.md
 [Espaçando linhas]:                            ../brazilian-portuguese/pt-BR/Line_Spacing.md
